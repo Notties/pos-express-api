@@ -3,7 +3,7 @@
 ### Required install
 - [PostgreSQL](https://www.postgresql.org/)
 
-## Create .env file
+### Create .env file
 
 ```env
 SECRET_KEY='jwtsecret'
